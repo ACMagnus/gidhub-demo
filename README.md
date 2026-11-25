@@ -1,10 +1,5 @@
-# GidHub Test
+# GidHub 示例站点
 
-这条站点是由 GidHub 自动创建的。
+这是用 [GidHub](https://acmagnus.github.io/gidhub/) 在 GitHub Pages 上生成的示例站点。
 
-用于验证创建仓库、提交文件、开启 Pages 的完整链路。
-
-由 [GidHub](https://github.com/ACMagnus/gidhub) 建站。
-
-
-编辑测试。
+连接 GitHub key，填标题和介绍，就能得到一个这样的真站点。
